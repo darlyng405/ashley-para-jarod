@@ -1,2 +1,2 @@
 # ashley-para-jarod
-Mi amiga queria una pagina web para su mejor amigo, so, la ayude un poquito, ni idea de quien es Jarod btw
+Espero que disfruten la pagina web ambos, el readme no tendra nada de requerimientos de sistema ni guia de uso, es una landing page sencilla, solo si Jarod o Ashley ven esto, les deseo que la hayan disfrutado. ❤️
